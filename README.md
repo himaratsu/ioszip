@@ -1,10 +1,5 @@
-# New Repository is Here.
+# Sorry. Repository is moved. New repository is here!
 https://github.com/ioszip/ioszip.github.io
 
 --
-
-ioszip (Old)
-======
-
-Only 1click, you can download imgs for app store!
 
